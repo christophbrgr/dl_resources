@@ -8,6 +8,7 @@ Resources for learning Deep and Machine Learning - esp. in the context of AI in 
 * [Udacity Free Course on Tensorflow](https://classroom.udacity.com/courses/ud187)
 * [Keras Guide](https://www.tensorflow.org/guide/keras) A guide to the Keras API for TF which is much more high-level than raw TF or other frameworks
 * [ML Terminology](https://developers.google.com/machine-learning/glossary/) Beginner friendly collection of terms and their explanations in DL, ML and TensorFlow
+* [Book on Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap1.html) Very good intro to NN and Deep Learning by Michael Nielsen
 
 ## 2. Articles discussing general concepts
 * [Guide to CNNs](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
